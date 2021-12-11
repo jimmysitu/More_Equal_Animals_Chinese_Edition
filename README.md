@@ -1,6 +1,6 @@
 # 更平等的动物 —— 真正民主的微妙艺术
 
-📖 **[在线阅读](https://shinjiikarieos.github.io/More_Equal_Animals_Chinese_Edition)** | 💬 [读者交流群·英语](https://t.me/MoreEqualAnimals)
+📖 **[在线阅读](https://jimmysitueos.github.io/More_Equal_Animals_Chinese_Edition)** | 💬 [读者交流群·英语](https://t.me/MoreEqualAnimals)
 
 
 

@@ -6,5 +6,5 @@
 
 - Daniel Larimer
 
-[GitHub](https://github.com/shinjiikarieos/More_Equal_Animals_Chinese_Edition)
+[GitHub](https://github.com/jimmysitu/More_Equal_Animals_Chinese_Edition)
 [开始阅读](README.md)
